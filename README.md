@@ -7,6 +7,7 @@ This project predicts flight ticket prices using machine learning and provides a
 - **Data Preprocessing:** Advanced pipelines using scikit-learn and feature-engine for handling categorical, datetime, and numerical features.
 - **Modeling:** Uses RandomForestRegressor and XGBoost for price prediction.
 - **Web App:** User-friendly Streamlit interface for making predictions.
+- **Web App link:** https://flightpriceprediction-fbstakmfumqitdj8vrevyx.streamlit.app
 
 ## Project Structure
 
